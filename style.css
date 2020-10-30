@@ -1,0 +1,6 @@
+body [class*="col-"] {
+  height: 200px;
+  border: 1px solid blue;
+  background: lightblue;
+  text-align: center;
+}
