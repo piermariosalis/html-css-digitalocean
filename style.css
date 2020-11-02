@@ -1,13 +1,8 @@
-body{
-}
-
 #site_header{
   height: 600px;
   
 }
 
-#site_main{
-}
 
 #site_footer{
   height: 400px;
@@ -219,3 +214,29 @@ header{
   color: lightgray;
 
 }
+
+@media only screen and (max-width: 768px){
+  #site_header {
+    height: 1130px;
+  }
+
+  .customers {
+    height: 410px;
+  }
+
+    .deploy {
+      height: 1100px;
+    }
+
+    .needs {
+      height: 710px;
+  }
+
+  .site_section {
+    height: 800px;
+}
+#site_footer {
+  height: 1113px;
+}
+}
+
