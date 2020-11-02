@@ -151,3 +151,71 @@ header{
   margin-bottom: 20px;
 
 }
+
+.deploy{
+  height: 600px;
+}
+
+.deploy h2{
+  margin-top: 60px;
+}
+
+.designed{
+  height: 800px;
+}
+
+.designed img{
+  width: 700px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.needs{
+  height: 400px;
+}
+
+.needs img{
+  margin-top: 60px;
+}
+
+.development{
+  height: 600px;
+}
+
+.development img{
+  width: 700px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+
+.create_account{
+  color: white;
+  height: 200px;
+}
+
+
+.create_account button{
+
+  background: white;
+  color: blue;
+  margin-top: 30px;
+  
+}
+
+
+
+#left_footer{
+  color: lightgray;
+  font-size: 16px;
+  margin-top: 60px;
+}
+
+
+#site_footer a{
+
+  display: block;
+  font-size: 16px;
+  color: lightgray;
+
+}
