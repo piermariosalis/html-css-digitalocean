@@ -1,6 +1,103 @@
-body [class*="col-"] {
-  height: 200px;
-  border: 1px solid blue;
-  background: lightblue;
-  text-align: center;
+body{
+}
+
+#site_header{
+  height: 600px;
+  
+}
+
+#site_main{
+}
+
+#site_footer{
+  height: 400px;
+}
+
+/* COLORS */
+
+.bg_white{
+  background-color: white;
+}
+
+.bg_grey{
+  background: #f3f5f9;
+}
+
+.bg_electricblue{
+  background: #004aff;
+}
+
+.bg_blue{
+  background-color: #002ba6;
+}
+
+.bg_darkblue{
+  background-color: #031c4e;
+}
+
+
+/* SITE_HEADER RULES */
+
+header{
+
+}
+
+
+
+/* SITE_SECTION RULES */
+
+.site_section{
+  height: 500px;
+}
+
+#servers_data .title{
+  padding-top: 85px;
+
+}
+
+#servers_data{
+  color: white;
+}
+
+.items{
+  padding: 10px 0;
+}
+
+.background_bottom{
+  border-bottom: 1px solid white;
+}
+
+#servers_data .col-xs-3{
+  text-align: right;
+}
+
+
+#site_nav{
+  height: 65px;
+  background: white;
+  margin-bottom: 0;
+}
+
+#height_ul_left>li>a {
+  line-height: 34px;
+}
+
+#height_ul_right>li>a{
+  line-height: 34px;
+}
+
+#logo_ocean{
+  height: 34px;
+}
+
+#site_header h2{
+  font-size: 60px;
+  margin-top: 90px;
+  color: white;
+}
+
+#site_header p{
+  font-size: 26px;
+  color: lightgrey;
+  margin-top: 30px;
 }
